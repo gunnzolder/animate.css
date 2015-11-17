@@ -1,0 +1,25 @@
+{
+  "name": "animate.css",
+  "version": "1.0.0",
+  "description": "*Just-add-water CSS animation*",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/daneden/animate.css.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/daneden/animate.css/issues"
+  },
+  "homepage": "https://github.com/daneden/animate.css",
+  "devDependencies": {
+    "animate.scss": "0.0.6"
+  }
+}
