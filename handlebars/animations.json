@@ -1,0 +1,130 @@
+{
+  "data": [
+    {
+      "groupName": "Attention Seekers",
+      "items": [
+        "bounce",
+        "flash",
+        "pulse",
+        "rubberBand",
+        "shake",
+        "swing",
+        "tada",
+        "wobble"
+      ]
+    },
+    {
+      "groupName": "Bouncing Entrances",
+      "items": [
+        "bounceIn",
+        "bounceInDown",
+        "bounceInLeft",
+        "bounceInRight",
+        "bounceInUp"
+      ]
+    },
+    {
+      "groupName": "Bouncing Exits",
+      "items": [
+        "bounceOut",
+        "bounceOutDown",
+        "bounceOutLeft",
+        "bounceOutRight",
+        "bounceOutUp"
+      ]
+    },
+    {
+      "groupName": "Fading Entrances",
+      "items": [
+        "fadeIn",
+        "fadeInDown",
+        "fadeInDownBig",
+        "fadeInLeft",
+        "fadeInLeftBig",
+        "fadeInRight",
+        "fadeInRightBig",
+        "fadeInUp",
+        "fadeInUpBig"
+      ]
+    },
+    {
+      "groupName": "Fading Exits",
+      "items": [
+        "fadeOut",
+        "fadeOutDown",
+        "fadeOutDownBig",
+        "fadeOutLeft",
+        "fadeOutLeftBig",
+        "fadeOutRight",
+        "fadeOutRightBig",
+        "fadeOutUp",
+        "fadeOutUpBig"
+      ]
+    },
+    {
+      "groupName": "Flippers",
+      "items": [
+        "flip",
+        "flipInX",
+        "flipInY",
+        "flipOutX",
+        "flipOutY"
+      ]
+    },
+    {
+      "groupName": "Lightspeed",
+      "items": [
+        "lightSpeedIn",
+        "lightSpeedOut"
+      ]
+    },
+    {
+      "groupName": "Rotating Entrances",
+      "items": [
+        "rotateIn",
+        "rotateInDownLeft",
+        "rotateInDownRight",
+        "rotateInUpLeft",
+        "rotateInUpRight"
+      ]
+    },
+    {
+      "groupName": "Rotating Exits",
+      "items": [
+        "rotateOut",
+        "rotateOutDownLeft",
+        "rotateOutDownRight",
+        "rotateOutUpLeft",
+        "rotateOutUpRight"
+      ]
+    },
+    {
+      "groupName": "Specials",
+      "items": [
+        "hinge",
+        "rollIn",
+        "rollOut"
+      ]
+    },
+    {
+      "groupName": "Zoom Entrances",
+      "items": [
+        "zoomIn",
+        "zoomInDown",
+        "zoomInLeft",
+        "zoomInRight",
+        "zoomInUp"
+      ]
+    },
+    {
+      "groupName": "Zoom Exits",
+      "items": [
+        "zoomOut",
+        "zoomOutDown",
+        "zoomOutLeft",
+        "zoomOutRight",
+        "zoomOutUp"
+      ]
+    }
+  ]
+}
